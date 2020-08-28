@@ -35,6 +35,7 @@
     height: 50px;
     border-radius: 50%;
     position: absolute;
+    transition: all 0.3s;
 }
 
 /* схема 4-2-3-1 */
