@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 626px;
+    margin: 0 auto;
+}
+
+.controller {
+    padding: 20px;
+}
+
+.controller select {
+    width: 150px;
+}
+
+.controller-title {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.football-field {
+    width: 100%;
+    height: 417px;
+    background-image: url('./images/bg.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.player {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+/* схема 4-2-3-1 */
+.football-field-4-2-3-1 .heuer {
+    left: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.football-field-4-2-3-1 .dante {
+    left: 120px;
+    top: 130px;
+}
+
+.football-field-4-2-3-1 .benatia {
+    left: 120px;
+    top: 230px;
+}
+
+.football-field-4-2-3-1 .lahm {
+    left: 150px;
+    top: 310px;
+}
+
+.football-field-4-2-3-1 .alaba {
+    left: 150px;
+    top: 57px;
+}
+
+.football-field-4-2-3-1 .martinez {
+    left: 250px;
+    top: 130px;
+}
+
+.football-field-4-2-3-1 .schweinsteiger {
+    left: 250px;
+    top: 230px;
+}
+
+.football-field-4-2-3-1 .rilbery {
+    left: 380px;
+    top: 57px;
+}
+
+.football-field-4-2-3-1 .robben {
+    left: 380px;
+    top: 310px;
+}
+
+.football-field-4-2-3-1 .muller {
+    left: 360px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.football-field-4-2-3-1 .pizarro {
+    left: 465px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* схема 4-3-3 */
+.football-field-4-3-3 .heuer {
+    left: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.football-field-4-3-3 .dante {
+    left: 120px;
+    top: 130px;
+}
+
+.football-field-4-3-3 .benatia {
+    left: 120px;
+    top: 230px;
+}
+
+.football-field-4-3-3 .lahm {
+    left: 150px;
+    top: 310px;
+}
+
+.football-field-4-3-3 .alaba {
+    left: 150px;
+    top: 57px;
+}
+
+.football-field-4-3-3 .martinez {
+    left: 300px;
+    top: 100px;
+}
+
+.football-field-4-3-3 .schweinsteiger {
+    left: 280px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.football-field-4-3-3 .rilbery {
+    left: 450px;
+    top: 57px;
+}
+
+.football-field-4-3-3 .robben {
+    left: 450px;
+    top: 310px;
+}
+
+.football-field-4-3-3 .muller {
+    left: 300px;
+    bottom: 100px;
+}
+
+.football-field-4-3-3 .pizarro {
+    left: 465px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* схема 4-4-2 */
+.football-field-4-4-2 .heuer {
+    left: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.football-field-4-4-2 .dante {
+    left: 120px;
+    top: 130px;
+}
+
+.football-field-4-4-2 .benatia {
+    left: 120px;
+    top: 230px;
+}
+
+.football-field-4-4-2 .lahm {
+    left: 150px;
+    top: 310px;
+}
+
+.football-field-4-4-2 .alaba {
+    left: 150px;
+    top: 57px;
+}
+
+.football-field-4-4-2 .martinez {
+    left: 280px;
+    top: 130px;
+}
+
+.football-field-4-4-2 .schweinsteiger {
+    left: 280px;
+    top: 230px;
+}
+
+.football-field-4-4-2 .rilbery {
+    left: 310px;
+    top: 57px;
+}
+
+.football-field-4-4-2 .robben {
+    left: 310px;
+    top: 310px;
+}
+
+.football-field-4-4-2 .muller {
+    left: 450px;
+    top: 230px;
+}
+
+.football-field-4-4-2 .pizarro {
+    left: 450px;
+    top: 130px;
+}
+
